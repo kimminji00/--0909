@@ -14,12 +14,11 @@ public :
 
 int main()
 {
-	int a = 0;
+	
 	LetDebug* ld = new LetDebug;
 	ld->printNum();
 	system("pause");
-
-
+	std::cout << "201802059" << std::endl;
 	return 0;
 }
 
